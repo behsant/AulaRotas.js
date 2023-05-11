@@ -1,0 +1,10 @@
+ul{
+    background-color: aqua;
+    display: flex;
+    gap: 50px;
+    
+}
+
+a{
+    color: rgb(1, 15, 27);
+}
